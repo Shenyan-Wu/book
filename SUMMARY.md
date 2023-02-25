@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Chapter 03](Chapter03/README.md)
-
 ## Software
 
-* [C/C++](software/c-c++.md)
+* [C/C++](README.md)
 * [Java](software/java.md)
 * [Python](software/python.md)
 * [Web Front-end](software/web-front-end/README.md)
