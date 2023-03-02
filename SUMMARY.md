@@ -23,11 +23,12 @@
   * [Learning](hardware/stm32/learning/README.md)
     * [STM32F411RE](hardware/stm32/learning/stm32f411re.md)
   * [Projects](hardware/stm32/projects.md)
+* [Circuit](hardware/circuit.md)
 
 ## Daily
 
 * [Life](daily/life.md)
-* [Learning](daily/learning/README.md)
+* [Learning](daily/learning.md)
   * [Daily](daily/learning/daily.md)
   * [Notes](daily/learning/notes/README.md)
     * [PID Control](daily/learning/notes/pid-control.md)
