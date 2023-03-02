@@ -11,7 +11,9 @@
     * [Html](software/web-front-end/learning/html.md)
     * [CSS](software/web-front-end/learning/css.md)
     * [Java Script](software/web-front-end/learning/java-script.md)
-* [Linux](software/linux.md)
+* [Linux](software/linux/README.md)
+  * [重点回顾](software/linux/zhong-dian-hui-gu.md)
+  * [相关练习](software/linux/xiang-guan-lian-xi.md)
 
 ## Hardware
 
