@@ -538,7 +538,7 @@ $$
 特別注意：『任何數值的零次方為1』所以100的結果就是1囉。 同樣的，將這個原理帶入二進位的環境中，我們來解釋一下1101010的數值轉為十進位的話，結果如下：
 
 $$
-\begin{aligned}1101010&=1\times2^6 + 1\times2^5 + 0\times2^4 + 1\times2^3 + 0\times2^2 + 1\times21 + 0\times2^0
+\begin{aligned}1101010&=1\times2^6 + 1\times2^5 + 0\times2^4 + 1\times2^3 + 0\times2^2 + 1\times2^1 + 0\times2^0
 \\&= 64 + 32 + 0\times16 + 8 + 0\times4 + 2 + 0\times1\\ &= 106\end{aligned}
 $$
 
