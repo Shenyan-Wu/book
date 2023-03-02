@@ -3,7 +3,9 @@
 ## Software
 
 * [C/C++](README.md)
-* [MATLAB](software/matlab.md)
+* [MATLAB](software/matlab/README.md)
+  * [Simulink Notes](software/matlab/simulink-notes.md)
+  * [Stateflow Notes](software/matlab/stateflow-notes.md)
 * [Java](software/java.md)
 * [Python](software/python.md)
 * [Web Front-end](software/web-front-end/README.md)
@@ -11,7 +13,7 @@
     * [Html](software/web-front-end/learning/html.md)
     * [CSS](software/web-front-end/learning/css.md)
     * [Java Script](software/web-front-end/learning/java-script.md)
-* [Linux](software/linux/README.md)
+* [Linux](software/linux.md)
   * [重点回顾](software/linux/zhong-dian-hui-gu.md)
   * [相关练习](software/linux/xiang-guan-lian-xi.md)
 

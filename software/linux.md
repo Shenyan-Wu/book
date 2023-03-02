@@ -8,12 +8,12 @@ description: 通过阅读鸟哥的Linux私房菜这本书，由于版权和时�
 
 此页为第0章计算机概论，简要讲述了计算机的基本架构和发展史，十分有意思，所以全文放在这里，之后由于版权问题，在看完部分章节后，将每章的重点回顾和相关练习放置在此，以便为了个人知识点回顾。
 
-{% content-ref url="zhong-dian-hui-gu.md" %}
-[zhong-dian-hui-gu.md](zhong-dian-hui-gu.md)
+{% content-ref url="linux/zhong-dian-hui-gu.md" %}
+[zhong-dian-hui-gu.md](linux/zhong-dian-hui-gu.md)
 {% endcontent-ref %}
 
-{% content-ref url="xiang-guan-lian-xi.md" %}
-[xiang-guan-lian-xi.md](xiang-guan-lian-xi.md)
+{% content-ref url="linux/xiang-guan-lian-xi.md" %}
+[xiang-guan-lian-xi.md](linux/xiang-guan-lian-xi.md)
 {% endcontent-ref %}
 
 ## 计算机概论
